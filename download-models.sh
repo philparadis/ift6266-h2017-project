@@ -17,4 +17,6 @@ popd
 
 pushd image-generator
 git clone https://github.com/hanzhanggit/StackGAN.git
+git clone https://github.com/reedscot/icml2016 reedscot-icml2016
+git clone https://github.com/reedscot/cvpr2016 reedscot-cvpr2016
 popd
