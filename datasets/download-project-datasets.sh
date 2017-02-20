@@ -14,5 +14,5 @@ wget http://lisaweb.iro.umontreal.ca/transfert/lisa/datasets/mscoco_inpaiting/TO
 wget http://lisaweb.iro.umontreal.ca/transfert/lisa/datasets/mscoco_inpaiting/examples.py
 wget http://lisaweb.iro.umontreal.ca/transfert/lisa/datasets/mscoco_inpaiting/inpainting.tar.bz2
 tar xf inpainting.tar.bz2
-rm inpainting.tar.bz2
+#rm inpainting.tar.bz2
 popd
